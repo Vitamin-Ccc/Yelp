@@ -138,30 +138,46 @@ def res_menu(item)
 end
 
 
-# def res_menu(menu)
-#   menu.each do ||
-#   end
-# end
-
 res_menu(res2)
 
 puts
 
 
-# create a function that takes a res and returns average review
+# create a function that takes a restaurant and returns average review
 
 
 
-# create an array of restaurants and do CRUD (Create, Read, Update, Destroy) actions on that array
 
-# Create: a method  that takes a restaurant and adds to your array
+# # Create: a method  that takes a restaurant and adds to your array
+# res3 = {}
 
-# Read: a method that display all res info
 
-#      Update: a  method that takes restaurants and updates that to your array
 
-#      Delete: a method that deletes res from arr
+# # Read: a method that display all res info
+# def all_res(display)
+# end
+
+
+
+
+# Update: a method that takes restaurants and updates that to your array
+
+
+
+
+
+# Delete: a method that deletes res from arr
+
+
+
+
 
 # loop through your restaurants and return those with likes > 500 (select/filter)
 
+
+
+
+
 # I want you to think of ideas simple/hard and try implementing them
+
+
